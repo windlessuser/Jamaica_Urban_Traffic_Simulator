@@ -59,6 +59,11 @@
             <artifactId>neo4j-scala</artifactId>
             <version>0.1.0</version>
         </dependency>
+        <dependency>
+         <groupId>org.scalatest</groupId>
+         <artifactId>scalatest_2.9.0</artifactId>
+         <version>1.8</version>
+        </dependency>
     </dependencies>
 
     <build>
